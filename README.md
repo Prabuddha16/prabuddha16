@@ -13,7 +13,7 @@
   [Facebook-@prabuddhakumar](https://www.facebook.com/prabuddha.kumar.94)
 
   [Instagram-@prabuddhakumar](https://www.instagram.com/prabuddha1606/)
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabuddha16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">

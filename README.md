@@ -1,10 +1,10 @@
 ### Hi there , I'm Prabuddha Kumar👋
 
 - 🔭 I’m currently working on GLA University.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning Software Development , Machine Learning & FullStack Development.
 - 👯 I’m looking to collaborate on YouTube.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Python , Java or any tech related stuff.
+- 🤔 I’m looking for help with GFG.
+- 💬 Ask me about C ,C++ , Python , Java , HTML , CSS , JS , SQL or any tech related stuff.
 - 📫 How to reach me:
 - [Twitter-@PrabuddhaKum](https://twitter.com/PrabuddhaKum)
 

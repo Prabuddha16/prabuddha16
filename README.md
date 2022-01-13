@@ -1,7 +1,6 @@
-![pk-logo-master](https://user-images.githubusercontent.com/63943167/149280176-47ec1df4-121e-4eb6-9818-812e65c79009.png)
 ### Hi there , I'm Prabuddha Kumar👋
 
-- 🔭 I’m currently working on GLA University.
+- 🔭 I’m currently pursuing B.Tech in CSE from GLA University, Mathura.
 - 🌱 I’m currently learning Software Development , Machine Learning & FullStack Development.
 - 👯 I’m looking to collaborate on YouTube.
 - 🤔 I’m looking for help with GFG.
@@ -18,3 +17,5 @@
 - ⚡ Fun fact: Hot water will turn into ice faster than cold water.
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabuddha16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+![pk-logo-master](https://user-images.githubusercontent.com/63943167/149280176-47ec1df4-121e-4eb6-9818-812e65c79009.png)

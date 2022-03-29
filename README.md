@@ -18,4 +18,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=prabuddha16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-![pk-logo-master](https://user-images.githubusercontent.com/63943167/149280176-47ec1df4-121e-4eb6-9818-812e65c79009.png)

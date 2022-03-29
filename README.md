@@ -1,20 +1,49 @@
-### Hi there , I'm Prabuddha Kumar👋
+### Hi there, I'm Prabuddha Kumar 👋 👨🏽‍💻
+## I'm a Software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), Machine Learning, and a Competitive Programmer!
+<p align="center">
+<img  alt="Profile Photo"  src="https://imgur.com/ohxuvzf.jpeg" />
+</p>
 
-- 🔭 I’m currently pursuing B.Tech in CSE from GLA University, Mathura.
-- 🌱 I’m currently learning Software Development , Machine Learning & FullStack Development.
-- 👯 I’m looking to collaborate on YouTube.
-- 🤔 I’m looking for help with GFG.
-- 💬 Ask me about C ,C++ , Python , Java , HTML , CSS , JS , SQL or any tech related stuff.
-- 📫 How to reach me:
-- [Twitter-@PrabuddhaKum](https://twitter.com/PrabuddhaKum)
+- 🔭 I’m currently working on my Portfolio!
+- 🌱 I’m currently pursuing Competitive Programing and Web Development
+- 👯 I’m looking to collaborate with other Web developers
+- 🥅 2022 Goal: To be Placed in a reputed Company
+- 
+### Connect with me:
+[<img align="left" alt="codersaty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/PrabuddhaKum)
+[<img align="left" alt="codersaty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)
+[<img align="left" alt="codersaty | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/prabuddha.kumar.94)
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/prabuddha1606)
+<br />
 
-  [YouTube-@prabuddhakumar](https://www.youtube.com/channel/UCBKKHI75x3DEfYfm5EiBXtg)
+### My CP Handles:
+[<img align="left" alt="codersaty | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/_191500551)
+[<img align="left" alt="codersaty | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/prabuddha6)
+[<img align="left" alt="codersaty | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/PRABUDDHA6)
+[<img align="left" alt="codersaty | Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />](https://auth.geeksforgeeks.org/user/prabuddhakumar97)
+<br />
 
-  [Facebook-@prabuddhakumar](https://www.facebook.com/prabuddha.kumar.94)
-
-  [Instagram-@prabuddhakumar](https://www.instagram.com/prabuddha1606/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hot water will turn into ice faster than cold water.
-
-<img src="https://github-readme-stats.vercel.app/api?username=prabuddha16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+### Languages and Tools:
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="c language" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/c/c.png" />
+<img align="left" alt="c++ language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="Java language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="jquery" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />
+<img align="left" alt="mongodb" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br />
+<br />
+<br />
+<br />
+<img align="left" alt="Prabuddha Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prabuddha16&show_icons=true&hide_border=true" />

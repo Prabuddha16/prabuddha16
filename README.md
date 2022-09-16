@@ -18,7 +18,7 @@
 
 ### My CP Handles:
 [<img align="left" alt="codersaty | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/_191500551)
-[<img align="left" alt="codersaty | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com/users/prabuddha6)
+[<img align="left" alt="codersaty | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com)
 [<img align="left" alt="codersaty | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/prabuddha16)
 [<img align="left" alt="codersaty | Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />](https://auth.geeksforgeeks.org/user/prabuddha16/practice)
 <br />

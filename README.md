@@ -1,7 +1,7 @@
 ### Hi there, I'm Prabuddha Kumar 👋 👨🏽‍💻
 ## FullStack(HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Google Firebase)
 ## DataScience(Python, Machine Learning)
-## Software Developer(Data Structure and Algorithms)
+## Software Developer(Java, Data Structure and Algorithms, DBMS, MySQL)
 <p align="center">
 <img  alt="Profile Photo"  src="https://imgur.com/qKnkpzm.png" />
 </p>

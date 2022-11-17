@@ -1,5 +1,7 @@
 ### Hi there, I'm Prabuddha Kumar 👋 👨🏽‍💻
-## I'm a Software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), Machine Learning, and a Competitive Programmer!
+## FullStack(HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Google Firebase)
+## DataScience(Python, Machine Learning)
+## Software Developer(Data Structure and Algorithms)
 <p align="center">
 <img  alt="Profile Photo"  src="https://imgur.com/qKnkpzm.png" />
 </p>

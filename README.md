@@ -1,7 +1,7 @@
 ### Hi there, I'm Prabuddha Kumar 👋 👨🏽‍💻
 ## I'm a Software Engineer(pursuing), Engineering Student, Full Stack Developer (MERN - Learning), Machine Learning, and a Competitive Programmer!
 <p align="center">
-<img  alt="Profile Photo"  src="https://imgur.com/ohxuvzf.jpeg" />
+<img  alt="Profile Photo"  src="https://imgur.com/qKnkpzm.png" />
 </p>
 
 - 🔭 I’m currently working on my Portfolio!

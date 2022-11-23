@@ -1,17 +1,16 @@
 ### Hi there, I'm Prabuddha Kumar 👋 👨🏽‍💻
-## Software Developer(Java, Data Structure and Algorithms, DBMS, MySQL)
-## FullStack(HTML, CSS, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB, Google Firebase)
-## DataScience(Python, Machine Learning)
+## Upcoming Software Engineer in Tata AIG General Insurance Company Limited
 
 <p align="center">
 <img  alt="Profile Photo"  src="https://imgur.com/qKnkpzm.png" />
 </p>
 
-- 🔭 I’m currently working on my Portfolio!
-- 🌱 I’m currently pursuing Competitive Programing and Web Development
-- 👯 I’m looking to collaborate with other Web developers
-- 🥅 2022 Goal: To be Placed in a reputed Company
-- 
+- 🔭 I’m currently working on my skills to become good Software Developer.
+- 🌱 I’m currently doing DSA problems and FullStack Development.
+- 👯 I’m looking to collaborate with other Software developers.
+- 🥅 2022 - Get offers from companies - Tata AIG, SMS Group Pvt. Ltd.
+- 🥅 2023 Goal: To be Placed in a reputed Product Based Company
+
 ### Connect with me:
 [<img align="left" alt="codersaty | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/PrabuddhaKum)
 [<img align="left" alt="codersaty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)

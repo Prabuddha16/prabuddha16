@@ -1,5 +1,5 @@
 ### Hi there, I'm Prabuddha Kumar 👋 👨🏽‍💻
-## Upcoming Software Engineer in Tata AIG General Insurance Company Limited
+## Software Developer
 
 <p align="center">
 <img  alt="Profile Photo"  src="https://imgur.com/qKnkpzm.png" />
@@ -8,7 +8,6 @@
 - 🔭 I’m currently working on my skills to become good Software Developer.
 - 🌱 I’m currently doing DSA problems and FullStack Development.
 - 👯 I’m looking to collaborate with other Software developers.
-- 🥅 2022 - Get offers from companies - Tata AIG, SMS Group Pvt. Ltd.
 - 🥅 2023 Goal: To be Placed in a reputed Product Based Company
 
 ### Connect with me:

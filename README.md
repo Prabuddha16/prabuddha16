@@ -2,13 +2,13 @@
 ## Software Developer
 
 <p align="center">
-<img  alt="Profile Photo"  src="https://imgur.com/qKnkpzm.png" />
+<img  alt="Profile Photo"  src="https://imgur.com/a/EiTmSJB" />
 </p>
 
 - 🔭 I’m currently working on my skills to become good Software Developer.
 - 🌱 I’m currently doing DSA problems and FullStack Development.
 - 👯 I’m looking to collaborate with other Software developers.
-- 🥅 2024 Goal: To Learn New Tech Stacks
+- 🥅 2024 Goal: To Become Expert in FullStackDevelopment
 
 ### Connect with me:
 [<img align="left" alt="codersaty | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)

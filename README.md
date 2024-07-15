@@ -5,10 +5,10 @@
   <img alt="Profile Photo" src="https://i.imgur.com/u699mPd.png" />
 </p>
 
-- 🔭 I’m currently working on my skills to become a good Software Developer.
-- 🌱 I’m currently doing DSA problems and FullStack Development.
-- 👯 I’m looking to collaborate with other Software developers.
-- 🥅 2024 Goal: To Become Expert in FullStack Development
+- 🔭 I'm currently honing my skills to excel as a Software Developer.
+- 🌱 Engaged in solving DSA problems and advancing in FullStack Development.
+- 🤝 Open to collaborating with other Software Developers.
+- 🥅 Goal for 2024: Achieve expertise in FullStack Development.
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)
@@ -19,9 +19,8 @@
 <br />
 
 ### My CP Handles:
-[<img align="left" alt="Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />](https://www.hackerrank.com/_191500551)
-[<img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />](https://www.codechef.com)
-[<img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />](https://leetcode.com/prabuddha16)
+[<img align="left" alt="Hackerrank" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/hackerrank/hackerrank.png" />](https://www.hackerrank.com/_191500551)
+[<img align="left" alt="Leetcode" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" />](https://leetcode.com/prabuddha16)
 [<img align="left" alt="Geeksforgeeks" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />](https://auth.geeksforgeeks.org/user/prabuddha16/practice)
 <br />
 

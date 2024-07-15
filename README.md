@@ -36,6 +36,7 @@
 <img align="left" alt="Next.js" width="26px" src="https://avatars.githubusercontent.com/u/14985020?s=200&v=4" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<br />
 <img align="left" alt="IntelliJ IDEA" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />

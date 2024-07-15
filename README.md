@@ -10,7 +10,7 @@
 - 🤝 Open to collaborating with other Software Developers.
 - 🥅 Goal for 2024: Achieve expertise in FullStack Development.
 
-### Connect with me:
+### Connect With Me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)
 [<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />](https://www.youtube.com/@prabuddha16)
 [<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />](https://twitter.com/PrabuddhaKum)

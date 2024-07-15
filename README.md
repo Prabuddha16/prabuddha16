@@ -12,10 +12,10 @@
 
 ### Connect with me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)
-[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/@prabuddha16)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/PrabuddhaKum)
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://facebook.com/prabuddha.kumar.94)
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/prabuddha1606)
+[<img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />](https://www.youtube.com/@prabuddha16)
+[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />](https://twitter.com/PrabuddhaKum)
+[<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" />](https://facebook.com/prabuddha.kumar.94)
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />](https://instagram.com/prabuddha1606)
 <br />
 
 ### My CP Handles:

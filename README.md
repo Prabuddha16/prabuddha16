@@ -2,7 +2,7 @@
 ## Software Developer
 
 <p align="center">
-<img  alt="Profile Photo"  src="https://imgur.com/u699mPd" />
+<img  alt="Profile Photo"  src="https://i.imgur.com/u699mPd.png" />
 </p>
 
 - 🔭 I’m currently working on my skills to become good Software Developer.

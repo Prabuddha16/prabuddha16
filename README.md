@@ -21,31 +21,31 @@
   <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank">
     <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img alt="Facebook" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" />
+  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank">
+    <img alt="Facebook" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" />
   </a>
-  <a href="https://instagram.com/prabuddha1606" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img alt="Instagram" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
+  <a href="https://instagram.com/prabuddha1606" target="_blank">
+    <img alt="Instagram" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
   </a>
-  <a href="https://www.youtube.com/@prabuddha16" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img alt="YouTube" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />
+  <a href="https://www.youtube.com/@prabuddha16" target="_blank">
+    <img alt="YouTube" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />
   </a>
-  <a href="https://twitter.com/PrabuddhaKum" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
-    <img alt="Twitter" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />
+  <a href="https://twitter.com/PrabuddhaKum" target="_blank">
+    <img alt="Twitter" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />
   </a>
 </p>
 
 ---
 
 ### 💻 My Competitive Programming Profiles:  
-<p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <a href="https://www.hackerrank.com/prabuddha16" target="_blank" style="text-decoration: none;">
+<p align="left">
+  <a href="https://www.hackerrank.com/prabuddha16" target="_blank">
     <img alt="Hackerrank" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/hackerrank/hackerrank.png" />
   </a>
-  <a href="https://leetcode.com/prabuddha16" target="_blank" style="text-decoration: none;">
+  <a href="https://leetcode.com/prabuddha16" target="_blank">
     <img alt="Leetcode" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank" style="text-decoration: none;">
+  <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank">
     <img alt="Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
   </a>
 </p>

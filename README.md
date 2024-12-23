@@ -17,7 +17,7 @@
 ---
 
 ### 🌐 Connect With Me:  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank" style="margin-right: 30px;">
     <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
@@ -38,14 +38,14 @@
 ---
 
 ### 💻 My Competitive Programming Profiles:  
-<p align="center">
-  <a href="https://www.hackerrank.com/prabuddha16" target="_blank" style="margin-right: 30px;>
+<p align="left">
+  <a href="https://www.hackerrank.com/prabuddha16" target="_blank">
     <img alt="Hackerrank" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/hackerrank/hackerrank.png" />
   </a>
-  <a href="https://leetcode.com/prabuddha16" target="_blank" style="margin-right: 30px;>
+  <a href="https://leetcode.com/prabuddha16" target="_blank">
     <img alt="Leetcode" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank" style="margin-right: 30px;>
+  <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank">
     <img alt="Geeksforgeeks" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
   </a>
 </p>

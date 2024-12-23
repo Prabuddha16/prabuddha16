@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋 , I'm Prabuddha Kumar 👨🏻‍💻</h1>  
+<h1 align="center">Hi👋🏻 , I'm Prabuddha Kumar 👨🏻‍💻</h1>  
 <p align="center">
   <img alt="Profile Photo" src="https://i.imgur.com/u699mPd.png" style="border-radius: 50%; width: 550px; height: 350px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </p>
@@ -11,23 +11,23 @@
 
 - 🔭 Currently honing my skills to excel as a **Software Developer**.  
 - 🌱 Engaged in solving **DSA problems** and advancing in **FullStack Development**.  
-- 🤝 Open to collaborating with other **Software Developers**.  
+- 🤝🏻 Open to collaborating with other **Software Developers**.  
 - 🥅 **Goal for 2025**: Achieve expertise in **FullStack Development**.
 
 ---
 
 ### 🌐 Connect With Me:  
-<p align="left">
-  <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank" style="margin-right: 30px;">
     <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank">
+  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank" style="margin-right: 30px;">
     <img alt="Facebook" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" />
   </a>
-  <a href="https://instagram.com/prabuddha1606" target="_blank">
+  <a href="https://instagram.com/prabuddha1606" target="_blank" style="margin-right: 30px;">
     <img alt="Instagram" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
   </a>
-  <a href="https://www.youtube.com/@prabuddha16" target="_blank">
+  <a href="https://www.youtube.com/@prabuddha16" target="_blank" style="margin-right: 30px;">
     <img alt="YouTube" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />
   </a>
   <a href="https://twitter.com/PrabuddhaKum" target="_blank">
@@ -38,15 +38,15 @@
 ---
 
 ### 💻 My Competitive Programming Profiles:  
-<p align="left">
-  <a href="https://www.hackerrank.com/prabuddha16" target="_blank">
-    <img alt="Hackerrank" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/hackerrank/hackerrank.png" />
+<p align="center">
+  <a href="https://www.hackerrank.com/prabuddha16" target="_blank" style="margin-right: 30px;>
+    <img alt="Hackerrank" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/hackerrank/hackerrank.png" />
   </a>
-  <a href="https://leetcode.com/prabuddha16" target="_blank">
-    <img alt="Leetcode" width="30px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" />
+  <a href="https://leetcode.com/prabuddha16" target="_blank" style="margin-right: 30px;>
+    <img alt="Leetcode" width="50px" src="https://raw.githubusercontent.com/github/explore/main/topics/leetcode/leetcode.png" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank">
-    <img alt="Geeksforgeeks" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
+  <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank" style="margin-right: 30px;>
+    <img alt="Geeksforgeeks" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />
   </a>
 </p>
 

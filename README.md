@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prabuddha Kumar 👋 👨🏽‍💻</h1>  
+<h1 align="center">Hi👋 , I'm Prabuddha Kumar 👨🏻‍💻</h1>  
 <p align="center">
   <img alt="Profile Photo" src="https://i.imgur.com/u699mPd.png" style="border-radius: 50%; width: 550px; height: 350px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
 </p>

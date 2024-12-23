@@ -8,7 +8,7 @@
 - 🔭 I'm currently honing my skills to excel as a Software Developer.
 - 🌱 Engaged in solving DSA problems and advancing in FullStack Development.
 - 🤝 Open to collaborating with other Software Developers.
-- 🥅 Goal for 2024: Achieve expertise in FullStack Development.
+- 🥅 Goal for 2025: Achieve expertise in FullStack Development.
 
 ### Connect With Me:
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/prabuddha-kumar)

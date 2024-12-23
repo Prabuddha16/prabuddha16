@@ -77,6 +77,6 @@
 ---
 
 ### 📊 My GitHub Stats:  
-<p align="center">
+<p align="left">
   <img alt="Prabuddha's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prabuddha16&show_icons=true&theme=radical&hide_border=false" />
 </p>

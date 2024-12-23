@@ -17,21 +17,21 @@
 ---
 
 ### 🌐 Connect With Me:  
-<p align="left" style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank" style="text-decoration: none;">
-    <img alt="LinkedIn" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank">
+    <img alt="LinkedIn" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank" style="text-decoration: none;">
-    <img alt="Facebook" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" />
+  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img alt="Facebook" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/facebook/facebook.png" />
   </a>
-  <a href="https://instagram.com/prabuddha1606" target="_blank" style="text-decoration: none;">
-    <img alt="Instagram" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
+  <a href="https://instagram.com/prabuddha1606" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img alt="Instagram" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
   </a>
-  <a href="https://www.youtube.com/@prabuddha16" target="_blank" style="text-decoration: none;">
-    <img alt="YouTube" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />
+  <a href="https://www.youtube.com/@prabuddha16" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img alt="YouTube" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/youtube/youtube.png" />
   </a>
-  <a href="https://twitter.com/PrabuddhaKum" target="_blank" style="text-decoration: none;">
-    <img alt="Twitter" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />
+  <a href="https://twitter.com/PrabuddhaKum" target="_blank" style="text-decoration: none; border: none; outline: none; display: inline-block;">
+    <img alt="Twitter" width="50px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); outline: none;" src="https://raw.githubusercontent.com/github/explore/main/topics/twitter/twitter.png" />
   </a>
 </p>
 

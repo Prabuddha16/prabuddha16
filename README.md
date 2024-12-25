@@ -4,13 +4,13 @@
 </p>
 <p align="center">
   <b>Welcome to my GitHub profile!</b><br/>
-  I'm a passionate software developer, continuously learning and building to make an impact in the tech world. 🚀
+  I'm a passionate software developer, continuously learning & building to make an impact in the tech world. 🚀
 </p>
 
 ---
 
 - 🔭 Currently honing my skills to excel as a **Software Developer**.  
-- 🌱 Engaged in solving **DSA problems** and advancing in **FullStack Development**.  
+- 🌱 Engaged in solving **DSA problems** & advancing in **FullStack Development**.  
 - 🤝🏻 Open to collaborating with other **Software Developers**.  
 - 🥅 **Goal for 2025**: Achieve expertise in **FullStack Development**.
 

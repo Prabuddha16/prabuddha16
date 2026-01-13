@@ -64,5 +64,5 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Prabuddha16&show_icons=true&theme=radical&hide_border=false" />
+  <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prabuddha16&theme=tokyonight" />
 </p>

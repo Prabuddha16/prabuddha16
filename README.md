@@ -11,13 +11,6 @@
 
 ---
 
-- 🔭 Currently honing my skills to excel as a **Software Developer**  
-- 🌱 Engaged in solving **DSA problems** & advancing in **FullStack Development**  
-- 🤝 Open to collaborating with other **Software Developers**  
-- 🥅 **Goal for 2026**: Achieve expertise in **FullStack Development**
-
----
-
 ### 🌐 Connect With Me:
 <p align="center">
   <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank">
@@ -56,23 +49,23 @@
 
 ### 🛠️ Languages & Tools:
 <p align="left">
-  <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" />
-  <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/javascript.svg" />
-  <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" />
-  <img alt="Express.js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" />
-  <img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" />
-  <img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" />
-  <img alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/nestjs.svg" />
-  <img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/next-dot-js.svg" />
-  <img alt="AWS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" />
-  <img alt="React" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/react.svg" />
-  <img alt="IntelliJ IDEA" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/intellijidea.svg" />
-  <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" />
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" />
-  <img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" />
-  <img alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" />
-  <img alt="SQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" />
-  <img alt="Terminal" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/terminal.svg" />
+ <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img alt="Express.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img alt="Postman" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+<img alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" />
+<img alt="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+<img alt="AWS" width="30px" src="https://skillicons.dev/icons?i=aws" />
+<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img alt="IntelliJ IDEA" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+<img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img alt="Terminal" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </p>
 
 <br/>

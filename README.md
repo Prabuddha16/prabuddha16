@@ -25,13 +25,13 @@
 ### 💻 Competitive Programming Profiles:
 <p align="center">
   <a href="https://www.hackerrank.com/prabuddha16" target="_blank">
-    <img alt="Hackerrank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg"/>
+    <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg"/>
   </a>
   <a href="https://leetcode.com/prabuddha16" target="_blank">
-    <img alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
+    <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank">
-    <img alt="GeeksForGeeks" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/geeksforgeeks.svg"/>
+    <img width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/geeksforgeeks.svg"/>
   </a>
 </p>
 

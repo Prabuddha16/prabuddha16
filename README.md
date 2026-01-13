@@ -13,21 +13,11 @@
 
 ### 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank">
-    <img alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" />
-  </a>
-  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank">
-    <img alt="Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/facebook.svg" />
-  </a>
-  <a href="https://instagram.com/prabuddha1606" target="_blank">
-    <img alt="Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" />
-  </a>
-  <a href="https://www.youtube.com/@prabuddha16" target="_blank">
-    <img alt="YouTube" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/youtube.svg" />
-  </a>
-  <a href="https://twitter.com/PrabuddhaKum" target="_blank">
-    <img alt="Twitter" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" />
-  </a>
+  <a href="https://www.linkedin.com/in/prabuddha-kumar" target="_blank"><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+  <a href="https://facebook.com/prabuddha.kumar.94" target="_blank"><img width="40" src="https://img.icons8.com/color/512/facebook-new.png" /></a>
+  <a href="https://instagram.com/prabuddha1606" target="_blank"><img width="40" src="https://img.icons8.com/fluency/512/instagram-new.png" /></a>
+  <a href="https://www.youtube.com/@prabuddha16" target="_blank"><img width="40" src="https://img.icons8.com/color/512/youtube-play.png" /></a>
+  <a href="https://twitter.com/PrabuddhaKum" target="_blank"><img width="40" src="https://img.icons8.com/color/512/twitter.png" /></a>
 </p>
 
 ---
@@ -35,20 +25,20 @@
 ### 💻 Competitive Programming Profiles:
 <p align="center">
   <a href="https://www.hackerrank.com/prabuddha16" target="_blank">
-    <img alt="Hackerrank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg" />
+    <img alt="Hackerrank" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/hackerrank.svg"/>
   </a>
   <a href="https://leetcode.com/prabuddha16" target="_blank">
-    <img alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" />
+    <img alt="LeetCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/prabuddha16/practice" target="_blank">
-    <img alt="GeeksforGeeks" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/geeksforgeeks.svg" />
+    <img alt="GeeksForGeeks" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/geeksforgeeks.svg"/>
   </a>
 </p>
 
 ---
 
 ### 🛠️ Languages & Tools:
-<p align="left">
+<p align="center">
  <img alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />

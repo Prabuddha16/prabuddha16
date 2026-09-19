@@ -107,6 +107,7 @@ I'm passionate about System Design, Data Structures & Algorithms, backend archit
 <img src="https://img.shields.io/badge/Tagic%20Hackathon-2nd%20Place-gold?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/AWS%20Contest-3rd%20Place-orange?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Star%20Top%20Performer-2025-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Star%20Top%20Performer-2026-red?style=for-the-badge"/>
 
 </p>
 
